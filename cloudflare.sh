@@ -1,7 +1,7 @@
 #!/bin/bash
 ##########################################################################################################################
 # Script to block incoming connection to port 80, 443 from all host and allow only from cloudflare IP (both ipv4 and ipv6)
-# Created By        : xHosts
+# Created By        : iFast.uk
 ##########################################################################################################################
 ## ----------------------------------
 # Define variables
